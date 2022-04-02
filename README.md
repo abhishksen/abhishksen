@@ -4,7 +4,7 @@ I am also fond of reading Newsletters and books.
 
 You can contact me through
 
-mail- codmonk21@gmail.com
+mail- senabhishk@gmail.com
 
 instagram- sen_abhishk
 
