@@ -4,7 +4,7 @@ I am also fond of reading Newsletters and books.
 
 You can contact me through
 
-mail- senabhishk@gmail.com
+E-mail- senabhishk@gmail.com
 
 instagram- sen_abhishk
 
