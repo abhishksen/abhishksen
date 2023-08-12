@@ -1,8 +1,7 @@
-## abhishksen
+# abhishksen
 
 Hi 👋 My name is Abhishek Sen
 =============================
-
 React Developer
 ---------------
 
@@ -36,20 +35,9 @@ In my free time, I enjoy watching movies, listening to music, and reading books.
 
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100048457260216" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/abhishksen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sen_abhishk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/senabhishk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sen_abhishk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
+[![abhisheksen's GitHub | Stats](https://stats.quine.sh/abhisheksen/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=abhisheksen)
 
-<a href="http://www.github.com/abhishksen"><img src="https://github-readme-stats.vercel.app/api?username=abhishksen&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=0891b2&icon_color=14b8a6&bg_color=181824&hide_border=true&show_icons=true" alt="abhishksen's GitHub stats" /></a>
+[![abhisheksen's GitHub | Topics](https://stats.quine.sh/abhisheksen/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=abhisheksen)
 
-<a href="http://www.github.com/abhishksen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishksen&stroke=0891b2&background=181824&ring=22c55e&fire=22c55e&currStreakNum=0891b2&currStreakLabel=22c55e&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
-
-<a href="http://www.github.com/abhishksen"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhishksen&bg_color=181824&color=0891b2&line=14b8a6&point=0891b2&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/abhishksen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishksen&langs_count=10&title_color=22c55e&text_color=0891b2&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/abhishksen/crypto_app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishksen&repo=crypto_app&title_color=22c55e&text_color=0891b2&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/abhishksen/rick-morty_wiki" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishksen&repo=rick-morty_wiki&title_color=22c55e&text_color=0891b2&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/abhishksen/google_abhishek" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishksen&repo=google_abhishek&title_color=22c55e&text_color=0891b2&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en" /></a></div>
+[![abhisheksen's GitHub | Languages](https://stats.quine.sh/abhisheksen/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=abhisheksen)
