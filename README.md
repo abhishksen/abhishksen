@@ -35,9 +35,12 @@ In my free time, I enjoy watching movies, listening to music, and reading books.
 
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100048457260216" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/abhishksen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sen_abhishk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/senabhishk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sen_abhishk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+### Badges
 
-[![abhisheksen's GitHub | Stats](https://stats.quine.sh/abhisheksen/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=abhisheksen)
+<b>My GitHub Stats</b>
 
-[![abhisheksen's GitHub | Topics](https://stats.quine.sh/abhisheksen/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=abhisheksen)
+<a href="http://www.github.com/abhishksen"><img src="https://github-readme-stats.vercel.app/api?username=abhishksen&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=0891b2&icon_color=14b8a6&bg_color=181824&hide_border=true&show_icons=true" alt="abhishksen's GitHub stats" /></a>
 
-[![abhisheksen's GitHub | Languages](https://stats.quine.sh/abhisheksen/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=abhisheksen)
+<a href="http://www.github.com/abhishksen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishksen&stroke=0891b2&background=181824&ring=22c55e&fire=22c55e&currStreakNum=0891b2&currStreakLabel=22c55e&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+
+<a href="https://github.com/abhishksen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishksen&langs_count=10&title_color=22c55e&text_color=0891b2&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
