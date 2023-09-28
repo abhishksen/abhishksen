@@ -37,6 +37,8 @@ In my free time, I enjoy watching movies, listening to music, and reading books.
 
 ### Badges
 
+[![An image of @abhishksen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishksen)](https://holopin.io/@abhishksen)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/abhishksen"><img src="https://github-readme-stats.vercel.app/api?username=abhishksen&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=0891b2&icon_color=14b8a6&bg_color=181824&hide_border=true&show_icons=true" alt="abhishksen's GitHub stats" /></a>
