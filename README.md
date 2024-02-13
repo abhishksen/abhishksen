@@ -8,7 +8,7 @@ Hey there! 👋 I'm Abhishek Sen, a frontend enthusiast with a core tech stack o
 *   🌍  I'm based in Bokaro Steel City, Jharkhand, India
 *   🖥️  See my portfolio at [abhisheksen.in](http://abhisheksen.in)
 *   ✉️  You can contact me at [senabhishk@gmail.com](mailto:senabhishk@gmail.com)
-*   🚀  I'm currently working on [My portfolio](http://abhisheksen.in) and [100daysofcode](https://github.com/abhishksen/100daysofcode)
+*   🚀  I'm currently working on my personal projects 
 *   🧠  I'm learning React & UI/Ux
 *   🤝  I'm open to collaborating on open source projects
 *   ⚡  I'm telling you a secret don't tell anyone "only ctrl+c & ctrl+v rest is handled by ChatGPT"
