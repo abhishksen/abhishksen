@@ -6,7 +6,7 @@ Hi 👋 My name is Abhishek Sen
 Hey there! 👋 I'm Abhishek Sen, a frontend enthusiast with a core tech stack of HTML, CSS, JavaScript, React JS, and React Native. Passionate about crafting seamless web experiences and mobile applications, my GitHub is a showcase of projects that highlight my expertise in these technologies. Let's connect and code something amazing together! 🚀
 
 *   🌍  I'm based in Bokaro Steel City, Jharkhand, India
-*   🖥️  See my portfolio at [abhisheksen.in](http://abhisheksen.tech)
+*   🖥️  See my portfolio at [abhisheksen.tech](http://abhisheksen.tech)
 *   ✉️  You can contact me at [senabhishk@gmail.com](mailto:senabhishk@gmail.com)
 *   🚀  I'm currently working on my personal projects 
 *   🧠  I'm learning React & UI/Ux
